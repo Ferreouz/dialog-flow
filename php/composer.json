@@ -1,0 +1,8 @@
+{
+    "require": {
+        "google/cloud-dialogflow": "^1.8",
+        "phpseclib/bcmath_compat": "^2.0",
+        "symfony/deprecation-contracts": "2.5.*",
+        "psr/cache": "1.0.*"
+    }
+}
